@@ -1,7 +1,7 @@
 {
   "name": "baseproj",
   "version": "0.0.1",
-  "main": "lib/daemon",
+  "main": "scripts/daemon",
   "engines": {
     "node": ">= 0.8.0"
   },
