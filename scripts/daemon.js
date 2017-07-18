@@ -1,1 +1,1 @@
-/mnt/F/Dropbox/code/baseproj/node_modules/basecmd/scripts/daemon.js
+../node_modules/basecmd/scripts/daemon.js
